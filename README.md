@@ -34,11 +34,7 @@
 <br>
 <br>
 
-## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=donatowr&repo=Processo_Seletivo_Funcoes_Javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/donatowr/Processo_Seletivo_Funcoes_Javascript)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=donatowr&repo=HTML_Developer&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/donatowr/HTML_Developer)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=donatowr&repo=Projeto_Recriar_Site_Wikipedia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/donatowr/Projeto_Recriar_Site_Wikipedia)
+
     
 
 ## Minhas Contribuições
