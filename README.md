@@ -1,7 +1,7 @@
 
 <div>
     <h1>Olá!!! Sou o Wellington Donato!. 👋 </h1>
-    <h2>Seja Bem vindo ao meu Perfil.</h2>
+    <h2>Seja Bem vindo ao meu Github.</h2>
     <p> Wellington Donato, mas pode me chamr só de Donato, Pai de 3 Filhos e amante de esportes, inclusive jogo futebol americano. Já trabalho na area de tecnologia,  porém voltado para área de manuteção em impressoaras de grande porte. Nem precisso comentar como sou maluco por tecnologias e sempre quis participar de uma equipe de programadores, mais antigamento o conhecimento não era tão fácil de ser adiquirido como hoje e eu era muito jovem pra ter o compromisso que ser programador requer... Hoje estou em transição de carreira mais estou com muita vontade de aprender e não vejo a hora de particpar de um projeto inovador, principalmente se for em back-end !!! 
     </p>
     <p>Aprender esta no meu cerne, quanto mais eu estudo mais eu me apixono por esse novo mundo da tecnologia em minha vida. 
