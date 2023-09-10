@@ -26,14 +26,15 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Tecnologias - technologies</h2>
-  <img align="center" alt="Donato-JavaScript" height="30" width="40" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/JS.png">
-  <img align="center" alt="Donato-Java" height="30" width="30" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/JAVA.png">
-  <img align="center" alt="Rafa-Postgre" height="30" width="40" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/html.png">
+  <img align="center" alt="Donato-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/js.png">
+  <img align="center" alt="Donato-Java" height="30" width="30" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/java.png">
+  <img align="center" alt="Donato-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/nodejs.png">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/html.png">
   <img align="center" alt="Rafa-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">
-  <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/png-transparent-visual-studio-code-hd-logo-thumbnail.png">
+  <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/vscode.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Intelijji" height="30" width="40" src="https://github.com/donatowr/HTML_Developer/blob/main/LOGOS/IntelliJ_IDEA_Icon.svg.png">
+  <img align="center" alt="Rafa-Intelijji" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/IntelliJ_IDEA_Icon.svg.png">
+  <img align="center" alt="Rafa-Intelijji" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/github.png">
 </div>
 <br>
 <br>
