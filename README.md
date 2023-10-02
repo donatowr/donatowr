@@ -27,6 +27,7 @@
 <div style="display: inline_block"><br>
     <h2>Tecnologias - technologies</h2>
   <img align="center" alt="Donato-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/js.png">
+  <img align="center" alt="Donato-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/ts.png">
   <img align="center" alt="Donato-Java" height="30" width="30" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/java.png">
   <img align="center" alt="Donato-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/nodejs.png">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/html.png">
