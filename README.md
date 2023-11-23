@@ -2,14 +2,9 @@
 <div>
     <h1>Olá!!! Sou o Wellington Donato! 👋 </h1>
     <h2>Seja Bem vindo ao meu Github.</h2>
-    <p> Wellington Donato, mas pode me chamar só de Donato, Pai de 3 Filhos e amante de esportes, inclusive jogo futebol americano. Formado Técnico em Eletrônica, Nem preciso comentar como sou maluco por tecnologias e sempre quis participar de uma equipe de programadores, mais antigamente o conhecimento não era tão fácil de ser adiquirido como hoje e eu era muito jovem pra ter o compromisso que ser programador requer... Hoje estou em transição de carreira mais estou com muita vontade de aprender e não vejo a hora de particpar de um projeto inovador, principalmente se for em back-end !!! 
+    <p> Pode me chamar só de Donato, Pai de 3 Filhos e amante de esportes, inclusive jogo futebol americano. Formado Técnico em Eletrônica, Nem preciso comentar como sou maluco por tecnologias e sempre quis participar de uma equipe de programadores. Muita vontade de aprender e particpar de um projeto inovador, principalmente se for em back-end !!! 
     </p>
-    <h1>Hello I am Wellington Donato!👋 </h1>
-    <h2>Welcome to my Github</h2>
-    <p>Wellington Donato, but you can just call me Donato, Father of 3 children and sports lover, including American football. Graduated as an Electronics Technician, I don't even need to mention how crazy I am about technology and I always wanted to be part of a team of programmers, but in the past knowledge was not as easy to acquire as it is today and I was too young to have the commitment that being a programmer requires. .. Today I'm in a career transition but I really want to learn and I can't wait to participate in an innovative project, especially if it's in the back-end</p>
-    <p>Aprender esta no meu cerne, quanto mais eu estudo mais eu me apixono por esse novo mundo da tecnologia em minha vida. 
-    </p>
-    <h2>Fique a Vontade e confira meus Projetos - Feel free to check out my Projects</h2> 
+   
 </div>
 <div>
     <h2>Conecte-se comigo - connect with me </h2>
@@ -32,8 +27,8 @@
   <img align="center" alt="Donato-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/nodejs.png">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/html.png">
   <img align="center" alt="Rafa-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">
-    <img align="center" alt="Donato-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/angular.png">
     <img align="center" alt="Donato-React" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/react.png">
+    <img align="center" alt="Donato-React" height="30" width="40" src="https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/postgresql.png">
   <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/vscode.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Intelijji" height="30" width="40" src="https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/IntelliJ_IDEA_Icon.svg.png">
